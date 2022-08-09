@@ -6,3 +6,9 @@ I created this simple project with html, css and javascript. In this project I u
 
 - [@juhinagpure](https://www.github.com/juhinagpure)
 
+
+## Tech Stack
+
+- HTML
+- CSS
+- Javascript
